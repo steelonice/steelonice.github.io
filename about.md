@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## About Me
 
-_yay_
+I'm a recent engineering graduate. Decided to make a website for some reason
 
 [back](./)
