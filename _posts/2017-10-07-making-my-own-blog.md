@@ -5,4 +5,6 @@ date:   2017-10-07 16:16:01 -0600
 categories: jekyll update
 ---
 
-test
+This blog making thing is a lot of work
+
+[back](./)
