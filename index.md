@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Test
+This is the main page. Not currently sure what to put here
 
 
 
