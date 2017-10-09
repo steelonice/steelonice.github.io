@@ -7,4 +7,4 @@ categories: jekyll update
 
 This blog making thing is a lot of work
 
-[back](./)
+[back](/)

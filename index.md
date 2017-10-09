@@ -1,8 +1,18 @@
 ---
 layout: default
 ---
-This is the main page. Not currently sure what to put here
+# Currently Interesting
 
+Below you can find the most recent Blog Post:
+
+{% for post in site.posts limit:1 %}
+  <a href="{{ post.url }}">{{ post.title }}</a>
+{% endfor %}
+
+# Questions?
+
+If you have any ideas for a post or something you want to know about, feel free
+to send me an email at HaydenChuter@gmail.com
 
 
 {% comment %}
